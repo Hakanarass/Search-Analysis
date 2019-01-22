@@ -10,5 +10,7 @@ According to the output of the program, we can say that the fastest is the Hash 
 ompared to Binary Search Tree, we can say that Hash Map is obviously faster. 
 When we look at Array Lists and Linked Lists, there's a serious difference between them. 
 Array List works much faster than Linked List. In general;
+
 According to search time:
+
 Linked List > Array List > Binary Search Tree > Hash Map
